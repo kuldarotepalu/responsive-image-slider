@@ -88,6 +88,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  margin: 0 18px;
 }
 
 .buttons {
@@ -95,11 +96,15 @@ body {
   flex-direction: column;
 }
 
-.fas {
-  margin: 0 12px;
-  font-size: 20px;
+.next-btn {
   background-color: transparent;
-  font-weight: 100;
+  border: 0;
+  width: 24px;
+  height: 24px;
+}
+
+#next {
+  rotate: 180deg;
 }
 
 .to-next {
