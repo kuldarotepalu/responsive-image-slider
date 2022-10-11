@@ -1,1 +1,1 @@
-#  Image slider as starter.
+#  Image slider as a starter.
